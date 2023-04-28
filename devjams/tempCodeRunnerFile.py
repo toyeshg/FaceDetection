@@ -1,0 +1,1 @@
+images.as_numpy_iterator().next()
